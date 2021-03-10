@@ -1,12 +1,8 @@
-# Tests file (Backend)
- 1. cd tests
- 2. npm install
- 3. npm run server 
- 
+#Install and Run
 
-# install (Main folder)
-npm i to install all dependencies 
+npm install to install all dependecies
+npm start to start the application
 
-npm start to run the client 
+email : admin@gmail.com 
+password: abcd123
 
-    
